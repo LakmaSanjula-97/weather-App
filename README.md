@@ -7,17 +7,12 @@ This project is a Node.js application that provides weather notifications to use
 
 1. **Set up a Node.js project:**
 
-    ```bash
-    mkdir weather-notification-service
-    cd weather-notification-service
-    npm init -y
-    npm install express mongoose nodemailer axios
-    ```
+   clone the repo
 
 2. **Install development dependencies:**
 
     ```bash
-    npm install --save-dev nodemon
+    npm install 
     ```
 
 ## Database Schema
